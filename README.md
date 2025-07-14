@@ -43,6 +43,14 @@ Note this Repository uses a git submodule - to checkout the source and all submo
 git clone --recursive https://github.com/batocera-linux/batocera-emulationstation.git
 ```
 
+# JEVERSON
+```bash
+git clone --recursive https://github.com/JeversonDS/batocera-emulationstation.git
+```
+
+
+
+
 or 
 
 ```bash
